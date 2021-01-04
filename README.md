@@ -55,7 +55,7 @@ The easiest and quickest way to get started is by cloning this repository to you
 
 ```shell
 $ cd ~/.config/awesome
-$ git clone https://github.com/mut-ex/awesome-wm-nice.git nice
+$ git clone https://github.com/vichanzo/awesome-wm-nice.git mac-os-awesome
 ```
 
 
